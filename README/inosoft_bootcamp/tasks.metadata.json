@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"inosoft_bootcamp.tasks"}],"uuid":"b17765bb36924ade8a88b7e81327c6aa","collectionName":"tasks","type":"collection"}
